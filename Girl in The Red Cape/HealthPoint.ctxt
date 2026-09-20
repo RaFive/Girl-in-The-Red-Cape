@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HealthPoint
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HealthPoint\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HealthPoint()
+comment2.params=maxHp
+comment2.target=HealthPoint(int)
+comment3.params=
+comment3.target=void\ loadFrames()
+comment4.params=sheet\ x\ y\ width\ height
+comment4.target=greenfoot.GreenfootImage\ cropFrame(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int)
+comment5.params=currentHp
+comment5.target=void\ updateHP(int)
+comment6.params=currentHp
+comment6.target=void\ updateBossHP(int)
+numComments=7

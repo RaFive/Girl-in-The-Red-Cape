@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TUI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TUI\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TUI()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=world
+comment3.target=void\ removedFromWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ triggerGoWithDelay()
+comment5.params=
+comment5.target=void\ showGoText()
+comment6.params=
+comment6.target=void\ stopSound()
+numComments=7

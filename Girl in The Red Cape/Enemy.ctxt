@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=damage
+comment1.target=void\ takeDamage(int)
+comment2.params=
+comment2.target=int\ getHitboxRadius()
+comment3.params=
+comment3.target=int\ getHp()
+comment4.params=
+comment4.target=boolean\ isDying()
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=nextStageSupplier\ isCleared
+comment10.target=void\ checkStageTransition(java.util.function.Supplier,\ boolean)
+comment11.params=
+comment11.target=void\ prepare()
+comment2.params=
+comment2.target=int\ getHp()
+comment3.params=hp
+comment3.target=void\ setHp(int)
+comment4.params=mc\ hp\ x\ y
+comment4.target=void\ setMainChar(MainChar,\ int,\ int,\ int)
+comment5.params=hpUI
+comment5.target=void\ setPlayerHpUI(HealthPoint)
+comment6.params=
+comment6.target=void\ setGoTUI()
+comment7.params=
+comment7.target=void\ triggerGoTUI()
+comment8.params=imageName
+comment8.target=void\ setGameBackground(java.lang.String)
+comment9.params=
+comment9.target=void\ act()
+numComments=12
