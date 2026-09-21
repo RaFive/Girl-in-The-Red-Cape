@@ -21,9 +21,9 @@ Sebuah game yang saya buat menggunakan Greenfoot dan bahasa Java untuk mata kuli
 * [Flying Demon 2D Pixel Art by Mattz Art](https://xzany.itch.io/flying-demon-2d-pixel-art)
 
 ### Background
-* [Free Summer Pixel Art Backgrounds by Digital Moons](https://free-game-assets.itch.io/free-summer-pixel-art-backgrounds)
+* [Free Summer Pixel Art Backgrounds by Free Game Assets](https://free-game-assets.itch.io/free-summer-pixel-art-backgrounds)
 * [Pixel Art Forest Background by saukgp](https://saurabhkgp.itch.io/pixel-art-forest-background-simple-seamless-parallax-ready-for-2d-platformer-s)
-* [Parallax Forest Background](https://digitalmoons.itch.io/parallax-forest-background)
+* [Parallax Forest Background by Digital Moons](https://digitalmoons.itch.io/parallax-forest-background)
 
 ### UI & HP Bar
 * [HP Bars for Indie Game by m1laan](https://m1ilaan.itch.io/hp-bars-for-indie-game)
